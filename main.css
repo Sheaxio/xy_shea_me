@@ -1,0 +1,27 @@
+img {
+    width:25%;
+    border-radius:50%;
+    margin-top:5%;
+}
+body {
+    text-align:center;
+    background-color:#EBC6FF;
+    
+}
+h1 {
+    font-family: 'Yatra One', cursive;
+
+}
+h3 {
+        font-family: 'Yatra One', cursive;
+
+}
+#ig {
+    text-align:center;
+    margin-left:100px;
+    float:left;
+    width:20%;
+}
+#ig2 {
+    float:right;
+}
